@@ -1,0 +1,5 @@
+[Dacia Sandero-Stepway  $13000  Top Speed: 160  Shape: Manual
+, Dacia Duster  $19000  Top Speed: 180  Shape: Manual
+, Honda Civic  $24000  Top Speed: 270  Shape: Manual
+, Tesla ModelX  $110000  Top Speed: 250  Shape: Automatic
+]

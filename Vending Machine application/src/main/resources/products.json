@@ -1,0 +1,9 @@
+[
+  {"brand":"Coca-Cola","type":"250ml","price":1.5,"calories":"105 kcal"} ,
+  {"brand":"Fanta","type":"250ml","price":1.5,"calories":"89 kcal"} ,
+  {"brand":"Coca-Cola","type":"Zero 250ml","price":1.5,"calories":"0.4 kcal"} ,
+  {"brand":"Doritos","type":"Hot Pepper 100g","price":2.0,"calories":"367 kcal"} ,
+  {"brand":"Doritos","type":"Taco 100g","price":2.0,"calories":"367 kcal"} ,
+  {"brand":"Doritos","type":"Barbecue 100g","price":2.5,"calories":"387 kcal"} ,
+  {"brand":"Doritos","type":"Nacho 100g","price":2.5,"calories":"357 kcal"}
+]

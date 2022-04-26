@@ -1,0 +1,10 @@
+Dacia Sandero-Stepway 13000 160 Manual Crossover
+Harley-Davidson XR750 15000 150 Chopper
+Tesla ModelX 110000 250 Automatic Suv
+Harley-Davidson Sportster 20000 145 Chopper
+John-Deere 6930 50000 34000
+Honda Civic 24000 270 Manual Coupe
+Yamaha V-Star 4499 135 Cruiser
+Dacia Duster 19000 180 Manual SUV
+John-Deere 7R-210 60000 38000
+Kawasaki KX450 10000 94 Enduro

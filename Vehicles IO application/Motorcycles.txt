@@ -1,0 +1,5 @@
+[Harley-Davidson XR750  $15000  Top Speed: 150  Shape: Chopper
+, Harley-Davidson Sportster  $20000  Top Speed: 145  Shape: Chopper
+, Yamaha V-Star  $4499  Top Speed: 135  Shape: Cruiser
+, Kawasaki KX450  $10000  Top Speed: 94  Shape: Enduro
+]

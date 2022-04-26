@@ -1,0 +1,3 @@
+[John-Deere 6930  $50000  Max Pulled Weight: 34000
+, John-Deere 7R-210  $60000  Max Pulled Weight: 38000
+]
